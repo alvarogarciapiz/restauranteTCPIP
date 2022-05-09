@@ -1,4 +1,4 @@
-# restauranteTCPIP
+# RestauranteTCPIP
 Desarrollo en Java para la gestión remota de un restaurante (solicitud de platos, anulación de los mismos, gestión de stock automática y  actualización de ingredientes). El programa usa un proceso servidor al que se le acoplan 1 o varios clientes simultáneamente. Se utilizan sockets para la comunicación TCP/IP.
 
 
